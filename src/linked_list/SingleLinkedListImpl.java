@@ -115,6 +115,7 @@ public class SingleLinkedListImpl<T> implements LinkedList<T> {
 	public int indexOf(T element) {
 		return 0;
 	}
+
 }
 
 
